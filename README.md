@@ -4,7 +4,7 @@ Power BI is a powerful business intelligence tool developed by Microsoft that al
 ## [American Store Sales Analysis Power BI](https://github.com/DrAdnanFarzandAli/Microsoft-Power-BI-Projects/tree/8f56a8770756aa6aabfcc71ed232c7c09d2f42f2/American%20Store%20Sales%20Analysis%20Power%20BI/American-Store-Sales-Analysis-Power-BI--main)
 This analysis focuses on the sales data of various American retail stores, using Power BI to visualize trends, revenue growth, and product performance. It provides insights into key metrics such as sales by region, customer demographics, and seasonal patterns. The findings help store managers and executives optimize sales strategies, improve marketing efforts, and understand customer preferences to drive profitability.
 
-## Bank Finance & Borrowing Insights Power BI: 
+## [Bank Finance & Borrowing Insights Power BI](https://github.com/DrAdnanFarzandAli/Microsoft-Power-BI-Projects/tree/16b3e6683125059269471675b6528f4788b60567/Bank%20Finance%20%26%20Borrowing%20Insights/Bank%20Finance%20%26%20Borrowing%20Insights) 
 This report delves into financial data from banks, analyzing borrowing behaviors, loan issuance, and repayment trends. Power BI visualizations present insights into credit risk, financial product usage, and loan trends, aiding financial institutions in refining their lending strategies, improving risk management, and offering better customer financial products.
 
 ## Call Centre Performance Data Power BI: 
